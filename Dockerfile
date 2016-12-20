@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM freeware/nginx:latest
 
 MAINTAINER <niltonb@@users.noreply.github.com>
 
