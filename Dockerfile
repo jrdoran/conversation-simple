@@ -1,4 +1,4 @@
-FROM registry.ng.bluemix.net/jrdoran/nginx:free-version
+FROM nginx:latest
 
 MAINTAINER <niltonb@users.noreply.github.com>
 
